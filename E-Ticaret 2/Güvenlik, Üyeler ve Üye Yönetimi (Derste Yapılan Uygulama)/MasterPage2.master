@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage2.master.cs" Inherits="MasterPage2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="stil.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="ust">
+        <div id="logo"><img src="images/logo.png" /></div>
+        <div id="sag">
+                Hoşgeldin
+                <asp:Label ID="Label1" runat="server"></asp:Label>
+                &nbsp;&nbsp;<asp:LoginName ID="LoginName1" runat="server" />
+                &nbsp;&nbsp;
+                <asp:LoginStatus ID="LoginStatus1" runat="server" CssClass="btn" LoginText="Giriş Yap" LogoutText="Çıkış Yap" />
+        </div>
+    </div>
+    <div class="temizle"></div>
+    <div id="kategori">
+        <h1>Kategoriler</h1>
+        <ul>
+            <li><a href="#">Kategori 1</a></li>
+            <li><a href="#">Kategori 2</a></li>
+            <li><a href="#">Kategori 3</a></li>
+            <li><a href="#">Kategori 4</a></li>
+            <li><a href="#">Kategori 5</a></li>
+        </ul>
+    </div>
+    <div id="icerik">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+    </div>
+    <div id="footer">
+        <ul>
+            <li><a href="#">Site Yönetimi</a></li>
+            
+        </ul>
+    </div>
+    </form>
+</body>
+</html>

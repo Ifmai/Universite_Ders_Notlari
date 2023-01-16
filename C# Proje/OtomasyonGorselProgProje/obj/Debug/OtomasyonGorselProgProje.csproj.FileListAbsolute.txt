@@ -1,0 +1,15 @@
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\bin\Debug\OtomasyonGorselProgProje.exe.config
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\bin\Debug\OtomasyonGorselProgProje.exe
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\bin\Debug\OtomasyonGorselProgProje.pdb
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.csproj.AssemblyReference.cache
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.Form1.resources
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.Form2.resources
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.Properties.Resources.resources
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.csproj.GenerateResource.cache
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.csproj.CoreCompileInputs.cache
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.exe
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.pdb
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.Form3.resources
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.Form4.resources
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.Form5.resources
+C:\Users\Vaveyla\source\repos\OtomasyonGorselProgProje\obj\Debug\OtomasyonGorselProgProje.Form6.resources

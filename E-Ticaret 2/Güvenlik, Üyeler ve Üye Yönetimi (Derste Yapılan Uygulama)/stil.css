@@ -1,0 +1,72 @@
+﻿.temizle{clear:both;}
+#logo {
+    width:38%;
+    height:100px;
+    padding-left:20px;
+    float:left;
+   
+}
+#sag {
+    float:right;
+    width:51%;
+    padding-top:20px;
+}
+   
+#kategori {
+    width:40%;
+    float:left;
+    
+    border-bottom:1px solid #808080;
+  
+    height:420px;
+}
+#icerik {
+    width:50%;
+    float:left;
+    padding:20px;
+    border-bottom:1px solid #808080;
+   
+    height:420px;
+}
+ h1 {
+    font-size:18px;
+    font-family:'Century Gothic';
+    color:#808080;
+    border-bottom:1px solid #808080;
+    line-height:50px;
+}
+#kategori ul {
+    list-style-type:none;
+    margin:0px;
+    padding:0px;
+}
+#kategori li {
+    height:30px;
+    width:75%;
+    border-bottom:1px dotted #808080;
+}
+#kategori a {
+    font-size:14px;
+    font-family:'Century Gothic';
+    color:#5b5151;
+    line-height:40px;
+    text-decoration:none;
+}
+#footer ul {width:400px;
+            margin-left:auto;margin-right:auto;
+            
+            list-style-type:none;
+}
+#footer ul li{padding:10px;float:left;
+            
+}
+#footer ul li a{color:#5b5151;font-weight:bold;font-size:16px;text-decoration:none;
+                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;            
+}
+
+.btn {
+    width:120px;
+    height:60px;
+    color:#5b5151;
+    text-decoration:none;
+}
